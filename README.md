@@ -2,7 +2,8 @@ soon.js
 need include css/soon.min.css 
 need include js/soon.min.js
 
-html
+
+Add tags in html
 <div id="soon" class="soon"></div>
 
 Documentation: http://sooncountdown.com/docs.html#topic-quick-setup-using-jquery 
